@@ -1,1 +1,1 @@
-# semval2024-task7
+# semval2024-task6
